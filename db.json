@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Shalu yadav",
+            "course":"B.Tech"
+        },
+        {
+            "id":2,
+            "name":"Soni yadav",
+            "course":"B.Tech"
+        },
+        {
+            "id":3,
+            "name":"Shalu ",
+            "course":"B.Tech"
+        }
+    ]
+}
